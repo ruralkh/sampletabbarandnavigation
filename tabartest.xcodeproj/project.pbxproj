@@ -14,6 +14,7 @@
 		0B2CF97920B27E98000226C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B2CF97720B27E98000226C3 /* LaunchScreen.storyboard */; };
 		0B2CF98420B27E98000226C3 /* tabartestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2CF98320B27E98000226C3 /* tabartestTests.swift */; };
 		0B2CF98F20B27E99000226C3 /* tabartestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2CF98E20B27E99000226C3 /* tabartestUITests.swift */; };
+		0B2CF99D20B296AB000226C3 /* notedandreferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2CF99C20B296AB000226C3 /* notedandreferences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0B2CF98A20B27E99000226C3 /* tabartestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tabartestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B2CF98E20B27E99000226C3 /* tabartestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabartestUITests.swift; sourceTree = "<group>"; };
 		0B2CF99020B27E99000226C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B2CF99C20B296AB000226C3 /* notedandreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = notedandreferences.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		0B2CF96220B27E96000226C3 = {
 			isa = PBXGroup;
 			children = (
+				0B2CF99C20B296AB000226C3 /* notedandreferences.swift */,
 				0B2CF96D20B27E96000226C3 /* tabartest */,
 				0B2CF98220B27E98000226C3 /* tabartestTests */,
 				0B2CF98D20B27E99000226C3 /* tabartestUITests */,
@@ -258,6 +261,7 @@
 			files = (
 				0B2CF97120B27E96000226C3 /* ViewController.swift in Sources */,
 				0B2CF96F20B27E96000226C3 /* AppDelegate.swift in Sources */,
+				0B2CF99D20B296AB000226C3 /* notedandreferences.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
